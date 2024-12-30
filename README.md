@@ -10,9 +10,11 @@ Este repositório é um desafio de desenvolvimento web para consumir uma API a s
   - Criação da página com design próprio; Retorno da API com filtro (nível Pleno)
   - Recriação da pág, com API própria (nível Sênior)
 - APIs:
-  - Pokémon
-  - Harry Potter
-  - Filmes, séries, animes
+  - [Pokémon](https://github.com/PokeAPI/pokeapi)
+  - [Harry Potter](https://github.com/KostaSav/hp-api)
+  - [Yu-Gi-Oh!](https://ygoprodeck.com/api-guide/)
+  - [Senhor dos Anéis](https://github.com/gitfrosh/lotr-api)
+  - Filmes, séries, animes ([TMDB](https://developer.themoviedb.org/reference/intro/getting-started), [OMDB](https://www.omdbapi.com/), etc.)
 
 Lembre-se que o desafio não é um processo de seleção, mas sim um exercício para desafiar seus conhecimentos na linguagem JavaScript. 
 
